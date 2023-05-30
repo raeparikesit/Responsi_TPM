@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         systemNavigationBarColor: Colors.black));
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Home(),
+      home: HomePage(),
     );
   }
 }
